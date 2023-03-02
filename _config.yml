@@ -108,4 +108,5 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
-  - [vendor]
+
+exclude: [vendor]
