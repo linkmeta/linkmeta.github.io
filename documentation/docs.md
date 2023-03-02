@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Docs
-permalink: /docs/
+permalink: 
 weight: 5
 ---
 
