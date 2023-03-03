@@ -1,7 +1,7 @@
 ---
 name: MetaCom
 tools: [C#, SERIAL, WPF, MVVM, COMM]
-image: https://raw.githubusercontent.com/linkmeta/linkmeta.github.io/main/assets/sniffer.png
+image: https://raw.githubusercontent.com/linkmeta/linkmeta.github.io/main/assets/MetaCom.png
 description: MetaCom 串口调试工具，基于WPF框架，MVVM模型开发，专注于串口常用功能，接收发送稳定性.
 ---
 
