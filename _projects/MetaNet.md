@@ -12,7 +12,7 @@ description: MetaNet is a network toolkit, support iperf,tcp,udp,websocket,mqtt,
 ![Issues](https://img.shields.io/github/issues/linkmeta/MetaNet?color=blue&style=flat-square)
 ![release](https://img.shields.io/github/release/linkmeta/MetaNet.svg)
 
-![logo](asserts/favicon.ico)
+![logo](https://github.com/linkmeta/linkmeta.github.io/blob/d54202e24c6f92698cfa90eed6b27605dc034f80/assets/favicon.ico)
 
 MetaNet is a network toolkit, support iperf,tcp,udp,websocket,mqtt,sniffer,pcap,port scan,listen,ip scan .etc.
 
