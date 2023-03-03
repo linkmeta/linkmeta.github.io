@@ -6,7 +6,6 @@ weight: 3
 ---
 
 # **About Me**
-{% include elements/highlight.html text="I am highlighted text." %}
 > Hi I am **{{ site.author.name }}** :wave:,<br>
 > Location: ShangHai.<br>
 > Email: qqnokia@gmail.com | qqnokia@msn.com.<br>
