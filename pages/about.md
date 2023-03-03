@@ -6,11 +6,11 @@ weight: 3
 ---
 
 # **About Me**
-
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Location: ShangHai 
-Email: qqnokia@gmail.com | qqnokia@msn.com 
-Link to the meta world.
+{% include elements/highlight.html text="I am highlighted text." %}
+> Hi I am **{{ site.author.name }}** :wave:,<br>
+> Location: ShangHai.<br>
+> Email: qqnokia@gmail.com | qqnokia@msn.com.<br>
+> Link to the meta world.<br>
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
