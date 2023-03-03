@@ -39,7 +39,7 @@ MetaCom 串口调试工具，基于WPF框架，MVVM模型开发，专注于串�
 * 发送缓冲区大小配置为 1MB
 * 流控为 None（无控制流）
 * 串行端口信号控制 Rts 和 Dtr 默认均未启用
-<img src="https://github.com/linkmeta/MetaCom/blob/main/docs/MetaCom.png" width="700">
+<img src="https://raw.githubusercontent.com/linkmeta/linkmeta.github.io/main/assets/MetaCom.png" width="700">
 
 
 ## 构建
