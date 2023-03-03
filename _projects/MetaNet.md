@@ -1,7 +1,7 @@
 ---
 name: MetaNet
 tools: [C#, XML, WPF, MVVM, SNIFFER, PCAP]
-image: https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/material_design_awards_inline_002.jpg
+image: [asserts/sniffer.png]
 description: MetaNet is a network toolkit, support iperf,tcp,udp,websocket,mqtt,sniffer,pcap,port scan,listen,ip scan .etc.
              This is an easy demo for network study by WPF MVVM.
 ---
@@ -12,7 +12,7 @@ description: MetaNet is a network toolkit, support iperf,tcp,udp,websocket,mqtt,
 ![Issues](https://img.shields.io/github/issues/linkmeta/MetaNet?color=blue&style=flat-square)
 ![release](https://img.shields.io/github/release/linkmeta/MetaNet.svg)
 
-![logo](/Resources/favicon.png)
+![logo](asserts/favicon.png)
 
 MetaNet is a network toolkit, support iperf,tcp,udp,websocket,mqtt,sniffer,pcap,port scan,listen,ip scan .etc.
 
